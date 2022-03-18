@@ -1,0 +1,8 @@
+content:
+- toString()
+- Anonymous classes
+- Default methods
+- LocalTime
+- LocalDate
+- LocalDateTime
+- Builder
